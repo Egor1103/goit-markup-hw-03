@@ -1,0 +1,255 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+.links {
+  text-decoration: none;
+}
+
+.list {
+  list-style-type: none;
+}
+
+/**============== LOGOTYPE ==============**/
+.logotype-f {
+  color: #4d5ae5;
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.logotype-d-head {
+  color: #2e2f42;
+}
+
+/**============================**/
+
+/**============== NAVIGATION ==============**/
+.nav-header {
+}
+
+.nav-list-header {
+}
+
+.nav-links-head {
+  color: #2e2f42;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.nav-links-head:hover,
+.nav-links-head:focus {
+  color: #404bbf;
+}
+/**ADRESS*/
+
+.adrs-blck-head {
+  font-style: normal;
+}
+
+.adrs-head {
+  color: #434455;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.adrs-head:focus,
+.adrs-head:hover {
+  color: #404bbf;
+}
+
+/**============================**/
+
+/**============== SOLUTIONS ==============**/
+
+.solutions {
+  background: #2e2f42;
+}
+
+.solutions-title {
+  color: #fff;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+}
+
+.solutions-btn {
+  color: #fff;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
+
+.solutions-btn:hover {
+  background-color: #404bbf;
+}
+
+.solutions-btn:focus {
+  background-color: #404bbf;
+}
+
+/**============================**/
+
+/**==============  OUR PLANS ==============**/
+
+.plan {
+}
+
+.plan-subtitles {
+  color: #2e2f42;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  background-color: #ffffff;
+}
+
+.plan-texts {
+  color: #434455;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/**============================**/
+
+/**============== OUR TEAM ==============**/
+
+.our-team {
+  background: #f4f4fd;
+}
+
+.our-team-title {
+  color: #2e2f42;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+
+.our-team-list {
+}
+
+.our-team-hum {
+  background-color: #ffffff;
+}
+
+.our-team-img {
+}
+
+.our-team-names {
+  color: #2e2f42;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.our-team-prof {
+  color: #434455;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/**============================**/
+
+/**============== OUR PORTFOLIO ==============**/
+.portfolio {
+}
+
+.portfolio-title {
+  color: #2e2f42;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+
+.porfolio-list {
+}
+
+.portfolio-img {
+}
+
+.portfolio-apps {
+  color: #2e2f42;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+.portfolio-app-txt {
+  color: #434455;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/**============================**/
+
+/**============== FOOTER ==============**/
+
+.footer {
+  background: #2e2f42;
+}
+
+.footer-txt {
+  color: #f4f4fd;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.logotype-d-foot {
+  color: #f4f4fd;
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+/**============================**/
