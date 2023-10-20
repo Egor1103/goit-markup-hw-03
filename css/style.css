@@ -3,21 +3,6 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-.links {
-  text-decoration: none;
-}
-
-.list {
-  list-style-type: none;
-}
-
-.container {
-  width: 1158px;
-  padding-left: 156px;
-  padding-right: 156px;
-  margin: 0 auto;
-  outline: 2px solid red;
-}
 
 img {
   display: block;
@@ -40,6 +25,23 @@ ol {
   margin-top: 0;
   margin-bottom: 0;
 }
+
+.links {
+  text-decoration: none;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.container {
+  width: 1158px;
+  padding-left: 156px;
+  padding-right: 156px;
+  margin: 0 auto;
+  outline: 2px solid red;
+}
+
 /**============== LOGOTYPE/HEADER ==============**/
 
 .logotype-f {
