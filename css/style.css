@@ -94,6 +94,7 @@ ol {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  padding: 24px 0;
 }
 
 .nav-links-head:hover,
@@ -103,7 +104,6 @@ ol {
 /**ADRESS*/
 
 .adr-head-container {
-  padding: 24px 0;
 }
 
 .adrs-blck-head {
