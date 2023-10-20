@@ -367,6 +367,8 @@ ol {
 
 .footer {
   background: #2e2f42;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .footer-txt {
@@ -377,7 +379,6 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   width: 264px;
-  padding-top: 16px;
 }
 
 .logotype-d-foot {
@@ -393,12 +394,13 @@ ol {
 .logotype-footer-container {
 }
 .logotype-footer {
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .footer-container {
 }
 
 .first-footer-section {
-  padding: 101.5px 0px 100px 0px;
 }
 
 /**============================**/
