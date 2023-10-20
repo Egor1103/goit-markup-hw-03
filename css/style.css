@@ -318,6 +318,7 @@ ol {
 .footer {
   background: #2e2f42;
   height: 340px;
+  padding: 100px 0;
 }
 
 .footer-txt {
@@ -339,7 +340,10 @@ ol {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-
+.logotype-footer {
+  display: inline-block;
+  margin-bottom: 16px;
+}
 .footer-container {
   padding-top: 100px;
   padding-bottom: 100px;
