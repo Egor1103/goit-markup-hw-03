@@ -82,7 +82,6 @@ ol {
 }
 
 .nav-list-head-container {
-  padding: 24px 0;
   display: flex;
   gap: 40px;
 }
@@ -104,6 +103,7 @@ ol {
 /**ADRESS*/
 
 .adr-head-container {
+  padding: 24px 0;
 }
 
 .adrs-blck-head {
