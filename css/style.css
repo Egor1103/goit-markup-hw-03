@@ -72,13 +72,12 @@ ol {
 
 .head-container {
   display: flex;
+  justify-content: space-between;
 }
 
 .nav-header {
   align-items: center;
-  width: 100%;
   display: flex;
-  gap: 76px;
 }
 
 .nav-list-head-container {
@@ -95,6 +94,7 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   padding: 24px 0;
+  display: flex;
 }
 
 .nav-links-head:hover,
@@ -108,10 +108,11 @@ ol {
 
 .adrs-blck-head {
   font-style: normal;
+  align-items: center;
+  padding: 24px 0;
 }
 
 .adrs-blck-head-container {
-  margin-left: auto;
   display: flex;
   gap: 40px;
 }
@@ -139,6 +140,8 @@ ol {
   padding: 188px 0;
 }
 .solutions-container {
+  display: grid;
+  place-items: center;
 }
 
 .solutions-title {
@@ -201,8 +204,6 @@ ol {
 }
 
 .plan-list {
-  padding-top: 120px;
-  padding-bottom: 120px;
   display: flex;
   gap: 24px;
 }
@@ -274,7 +275,6 @@ ol {
 }
 
 .container-name-prof {
-  padding: 32px 0;
 }
 
 .our-team-names {
@@ -360,7 +360,6 @@ ol {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  padding-bottom: 32px;
 }
 
 /**============================**/
@@ -369,8 +368,6 @@ ol {
 
 .footer {
   background: #2e2f42;
-  height: 340px;
-  padding: 100px 0;
 }
 
 .footer-txt {
@@ -380,6 +377,8 @@ ol {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  width: 264px;
+  padding-top: 16px;
 }
 
 .logotype-d-foot {
@@ -392,13 +391,15 @@ ol {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
+.logotype-footer-container {
+}
 .logotype-footer {
-  display: inline-block;
-  margin-bottom: 16px;
 }
 .footer-container {
-  padding-top: 100px;
-  padding-bottom: 100px;
+}
+
+.first-footer-section {
+  padding: 101.5px 0px 100px 0px;
 }
 
 /**============================**/
